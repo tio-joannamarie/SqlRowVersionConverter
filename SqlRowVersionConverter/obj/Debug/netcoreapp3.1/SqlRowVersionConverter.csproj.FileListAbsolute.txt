@@ -1,0 +1,11 @@
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\bin\Debug\netcoreapp3.1\SqlRowVersionConverter.exe
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\bin\Debug\netcoreapp3.1\SqlRowVersionConverter.deps.json
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\bin\Debug\netcoreapp3.1\SqlRowVersionConverter.runtimeconfig.json
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\bin\Debug\netcoreapp3.1\SqlRowVersionConverter.runtimeconfig.dev.json
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\bin\Debug\netcoreapp3.1\SqlRowVersionConverter.dll
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\bin\Debug\netcoreapp3.1\SqlRowVersionConverter.pdb
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\obj\Debug\netcoreapp3.1\SqlRowVersionConverter.csprojAssemblyReference.cache
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\obj\Debug\netcoreapp3.1\SqlRowVersionConverter.AssemblyInfoInputs.cache
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\obj\Debug\netcoreapp3.1\SqlRowVersionConverter.AssemblyInfo.cs
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\obj\Debug\netcoreapp3.1\SqlRowVersionConverter.dll
+C:\Joanna\SqlRowVersionConverter\SqlRowVersionConverter\SqlRowVersionConverter\obj\Debug\netcoreapp3.1\SqlRowVersionConverter.pdb
